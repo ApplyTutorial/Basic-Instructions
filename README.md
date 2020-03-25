@@ -1,7 +1,28 @@
 # Basic-Instructions 
 Apply Tutorial 以简洁和容易而闻名。Basic-Instructions 是针对第一次接触留学申请同学的快速入门教程。
 
-Basic-Instructions 由 **简单到复杂 整体到局部 抽象到具象** 的顺序来介绍美国研究生申请过程：
+### 录取委员会如何评价一个申请人？
+
+推荐信投递系统中会要求推荐人对被推荐人以下几个方面进行打分
+
+- Knowledge in chosen field 专业领域的知识
+- Motivation and perseverance toward goals 对学术目标的追寻动力
+- Ability to express thoughts in speech and writing 听说读写的能力
+- Ability / potential for college teaching 完成授课的可能性
+- Ability to plan and conduct research 进行研究的能力
+
+常见的申请材料，所反映的官方评价方式对照。
+
+- 推荐信 All inclusive
+- 暑研/秋研 All inclusive
+- 学术背景（CV Paper） Ability to plan and conduct research / Ability to express thoughts in speech and writing
+- 个人陈述 Motivation and perseverance toward goals
+- GPA Knowledge in chosen field / Ability or potential for college teaching
+- TOEFL Ability to express thoughts in speech and writing
+- GRE Ability to express thoughts in speech and writing
+
+
+下面由 **简单到复杂 整体到局部 抽象到具象** 的顺序来介绍美国研究生申请过程：
 
 - 一分钟完成申请 （1min）
 - 五分钟完成申请 （5min）
@@ -9,7 +30,6 @@ Basic-Instructions 由 **简单到复杂 整体到局部 抽象到具象** 的�
 - 从入门到精通   （2h）
 
 ## 一分钟完成申请 ##
-申请留学太难了，我不想努力了，~~请戳~~[这里](http://www.fupozhongxin.cn/)。
 
 如果说，贯穿整个申请过程有没有**性价比最高的事情** ，我觉得应该是：
 
@@ -52,23 +72,52 @@ Basic-Instructions 由 **简单到复杂 整体到局部 抽象到具象** 的�
    - 付款并提交申请 加入等offer社群 
 
 ## 申请要素全概览 ##
-申请要素全集 包括了95%的研究生项目需要完成的工作。
-1. 准备你的思想
+> [!Warning]
+>
+> 申请要素全集是 Apply Tutorial 的目录，包括了95%的研究生项目需要完成的工作。由于内容过长，建议用作**信息库**进行查阅，降低阅读难度。
+1. 准备你的思考方式
+    - 你想要的、适合的是什么
+    - 合适与匹配的重要性
+    - 动态规划、实时调整
+    - 如何评价获得的信息、资源
 2. 设计你的申请策略
-    - PhD or Master
+    - 申请 PhD or Master 项目
     - 搜集所有相关的项目
     - 评估合适的项目
     - 头脑风暴与同理心
     - 社交与社群
 3. 展示你自己
-    - 个人学术网站
     - 简历 CV
+    - 目的申明 PS
+    - 个人学术网站
+    - 个人历史申明 PHS
     - 个人 Video
 4. 研究和出版物
+    - 获得研究机会
+    - 好的出版物和论文
 5. 标化成绩
-6. 暑期实习
+    - 标化成绩是如何评价一个申请者
+    - GRE 美国研究生入学考试
+    - TOEFL 语言考试
+    - GPA 分段加权平均成绩
+    - 如何弥补 GPA 短板  
+6. 暑研 & 实习
+    - 为什么要暑研
+    - 前期准备
+    - 套取暑研机会
+    - 面试准备
+    - 获得签证
+    - 获得推荐
+    - 实习
 7. 社交与推荐信
+    - 如何社交
+    - 好的推荐信
+    - 推荐信的提交界面
+    - 推荐信的内容与形式
+    - 推荐信的撰写步骤
 8. 网申提交与付款
+    - 网申系统界面
+    - 网申系统的提交
 9. 面试
 10. 签证与机票
 11. 租房与购车
